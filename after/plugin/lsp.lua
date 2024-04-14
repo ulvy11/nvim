@@ -51,8 +51,7 @@ require('mason-lspconfig').setup({
 	  'rust_analyzer',
 	  'lua_ls',
 	  'eslint',
-	  'python-lsp-server',
-      'harper-ls'
+	  'pylsp',
   },
   handlers = {
     function(server_name)
