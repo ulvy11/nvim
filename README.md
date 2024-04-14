@@ -1,5 +1,7 @@
 # Config with plugin and remaps
 
+Following [this video](https://www.youtube.com/watch?v=w7i4amO_zaE)
+
 ## Plugins
 
 Plugin manager : [packer](https://github.com/nvim-telescope/telescope.nvim)
@@ -14,7 +16,7 @@ Plugins :
 - [fugitive](https://github.com/tpope/vim-fugitive)
 - [lsp-zero](https://github.com/VonHeikemen/lsp-zero.nvim)
 - [mason-lspconfig](https://github.com/williamboman/mason-lspconfig.nvim)
-- [tokyogogh (color scheme)](https://github.com/cesaralvarod/tokyogogh.nvim)
+- [tokyogogh](https://github.com/cesaralvarod/tokyogogh.nvim) (color scheme)
 
 ## Remap
 
